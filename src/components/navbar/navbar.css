@@ -1,0 +1,31 @@
+.nav-items{
+    width:100%;
+    height:60px;
+    display:flex;
+    justify-content: space-between;
+    position:fixed;
+    box-shadow: 1px 1px 1px 1px grey;
+    background: #fff;
+    flex-wrap: wrap;
+    margin:0;
+
+}
+.text-nav{
+    margin-left:20px;
+    background: #fff;
+}
+.search-text{
+    height:30px;
+    width:200px;
+    border:none;
+}
+.dropdown-btn{
+    height:30px;
+    text-align: center;
+    font-weight: 100;
+}
+.nav-right{
+    margin-right:20px;
+    margin-top:20px;
+    
+}
